@@ -1,4 +1,0 @@
-Fred, 111
-Pus, 123
-Jeffery, 79
-Kels, 233
